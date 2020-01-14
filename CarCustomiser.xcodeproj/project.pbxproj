@@ -16,6 +16,7 @@
 		4C51A85623CBA9490071B307 /* CarCustomiserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C51A85523CBA9490071B307 /* CarCustomiserTests.swift */; };
 		4C51A86123CBA94A0071B307 /* CarCustomiserUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C51A86023CBA94A0071B307 /* CarCustomiserUITests.swift */; };
 		4C51A86F23CBCBB30071B307 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C51A86E23CBCBB30071B307 /* Car.swift */; };
+		4C51A87123CD103E0071B307 /* StarterCars.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C51A87023CD103D0071B307 /* StarterCars.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		4C51A86023CBA94A0071B307 /* CarCustomiserUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarCustomiserUITests.swift; sourceTree = "<group>"; };
 		4C51A86223CBA94A0071B307 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4C51A86E23CBCBB30071B307 /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		4C51A87023CD103D0071B307 /* StarterCars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarterCars.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				4C51A84923CBA9490071B307 /* LaunchScreen.storyboard */,
 				4C51A84C23CBA9490071B307 /* Info.plist */,
 				4C51A86E23CBCBB30071B307 /* Car.swift */,
+				4C51A87023CD103D0071B307 /* StarterCars.swift */,
 			);
 			path = CarCustomiser;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				4C51A84323CBA9400071B307 /* ViewController.swift in Sources */,
 				4C51A83F23CBA9400071B307 /* AppDelegate.swift in Sources */,
 				4C51A86F23CBCBB30071B307 /* Car.swift in Sources */,
+				4C51A87123CD103E0071B307 /* StarterCars.swift in Sources */,
 				4C51A84123CBA9400071B307 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

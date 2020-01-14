@@ -16,7 +16,7 @@ class CarCustomiserTests: XCTestCase {
         let expected = """
             Make: Nokia
             Model: 11 Pro Max
-            Top Speed: 150mph
+            Top Speed: 150 mph
             Acceleration (0-60 in): 12.4s
             Handling: 69
         """
